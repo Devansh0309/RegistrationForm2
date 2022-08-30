@@ -1,0 +1,30 @@
+body{
+    background-color:cornsilk;
+}
+.container{
+    margin:10px auto;
+    padding:0;
+    width:800px;
+    height:auto;
+    background-color:navajowhite;
+    border-radius:10px;
+    
+}
+.main-title{
+    text-align: center;
+    background-color:lightsalmon;
+    width:100%;
+    border-radius:10px 10px 0px 0px;
+    color:whitesmoke;
+}
+.subm{
+    display:block;
+    margin:0px auto 7px;
+}
+.form{
+    width:100%;
+    margin:auto;
+}
+.input-group-text{
+   background-color: cornsilk; 
+}
